@@ -1,4 +1,4 @@
--- DARK ANTI BAT
+-- DARK 
 -- Features: Anti Bat (makes you impossible to hit), Infinite Jump (Manual/Hold), keybinds
 
 local Players = game:GetService("Players")
