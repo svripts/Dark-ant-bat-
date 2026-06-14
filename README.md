@@ -1,4 +1,4 @@
--- RAINY ANTI BAT
+-- DARK ANTI BAT
 -- Features: Anti Bat (makes you impossible to hit), Infinite Jump (Manual/Hold), keybinds
 
 local Players = game:GetService("Players")
@@ -333,4 +333,4 @@ end)
 -- Start Anti Bat by default
 startAntiBat()
 
-print("Rainy Anti Bat loaded | discord.gg/rainyhub")
+print("dark Anti Bat loaded | l https://discord.gg/JZ6WnhDBe")
